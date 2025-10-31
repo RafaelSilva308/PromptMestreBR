@@ -2,3 +2,7 @@ packages:
   - "client"
   - "server"
   - "shared"
+
+git add pnpm-workspace.yaml
+git commit -m "add pnpm workspace config"
+git push
